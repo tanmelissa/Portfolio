@@ -80,8 +80,8 @@ h5 {
 }
 
 .fragment-two {
-    background-color: #f7f2b2;
-    color: #9DABDD;
+    background-color: #f8d6bf;
+    color: #d8514c;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -124,7 +124,7 @@ h5 {
 }
 
 .fragment-four {
-    background-color: #f8d6bf;
+    background-color: #bfeada;
     color: #0e5eab;
 }
 
@@ -154,7 +154,7 @@ h5 {
 
 
 .fragment-five {
-    background-color: #b2e6d3;
+    background-color: #FFFab8;
     padding: 50px;
     color: #53927c;
     text-align: center; 
