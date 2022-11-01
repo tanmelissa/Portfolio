@@ -105,7 +105,7 @@ h5 {
 }
 
 .fragment-three .carousel {
-    max-width: 800px;
+    max-width: 1200px;
 }
 
 .fragment-three .carousel-container {
@@ -116,7 +116,7 @@ h5 {
 }
 
 .fragment-three .carousel-caption {
-    color: #999
+    color: #999;
 }
 
 .fragment-three .custom-indicator {
