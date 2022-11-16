@@ -75,8 +75,9 @@ h5 {
     margin-bottom: 0;
 }
 
-.fragment-one i {
+.fragment-one a {
     margin-bottom:30px;
+    color:#E58B88;
 }
 
 .fragment-two {
@@ -112,7 +113,7 @@ h5 {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column
+    flex-direction: column;
 }
 
 .fragment-three .carousel-caption {
@@ -194,4 +195,8 @@ h5 {
 .fragment-six .copyright {
     margin: 10px 0;
     font-size: 0.8rem;
+}
+
+html {
+    scroll-behavior: smooth;
 }
